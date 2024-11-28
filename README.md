@@ -1,6 +1,19 @@
+# Hello there 👋 I'm Arturo!
+
+## About Me
+I'm a Data Science Master’s student with a background in Economics and Finance, currently based in San Francisco. Passionate about Machine Learning for Finance, AI, and designing cool applications!
 
 
-<!---
-aavalose/aavalose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Current Projects
+- **Minutes Scraper and Analyzer App**: AI-driven analytic tool to help economists have a handy platform to study monetary policy decisions.
+
+## 👯 Let’s Collaborate On...
+- Open-source data science projects
+- ML in Finance applications
+- Innovative web apps
+
+## 📫 Contact
+- **Email**: [aavalose@dons.usfca.edu](mailto:aavalose@dons.usfca.edu)
+- **LinkedIn**: [linkedin.com/in/aavalose](https://linkedin.com/in/aavalose)
+
+Looking forward to building something impactful together!
