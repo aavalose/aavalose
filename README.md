@@ -7,11 +7,6 @@ I'm a Data Science Master’s student with a background in Economics and Finance
 ## 💻 Current Projects
 - **Minutes Scraper and Analyzer App**: AI-driven analytic tool to help economists have a handy platform to study monetary policy decisions.
 
-## 👯 Let’s Collaborate On...
-- Open-source data science projects
-- ML in Finance applications
-- Innovative web apps
-
 ## 📫 Contact
 - **Email**: [aavalose@dons.usfca.edu](mailto:aavalose@dons.usfca.edu)
 - **LinkedIn**: [linkedin.com/in/aavalose](https://linkedin.com/in/aavalose)
